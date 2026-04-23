@@ -1,6 +1,6 @@
 C Basics Repository 
 
-i am trying to practice the concepts which are important for firmware engineer.
+practicing concepts which are important for firmware engineer.
 pointers 
 linked list
 array
