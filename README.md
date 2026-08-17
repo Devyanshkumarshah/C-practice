@@ -1,17 +1,1 @@
-C Basics Repository 
-
-practicing concepts which are important for firmware engineer.
-pointers 
-linked list
-array
-structure 
-queue
-stack
-trees
-searching 
-sorting 
-Dynamic memory allocation
-
-
-
-
+Practiced questions on C programming exercises and implementations covering core data structures and algorithms. Includes practice on pointers, arrays, structures, linked lists, stacks, queues, trees, searching, sorting, and dynamic memory allocation, with solutions aimed at strengthening problem-solving and low-level programming skills.
